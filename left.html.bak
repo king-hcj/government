@@ -1,0 +1,296 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title><script src="js/menu.js"></script>
+
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.STYLE1 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 12px;
+}
+.STYLE2 {
+	font-size: 12px;
+	color: #03515d;
+}
+a:link {font-size:12px; text-decoration:none; color:#03515d;}
+a:visited{font-size:12px; text-decoration:none; color:#03515d;}
+.STYLE3 {font-size: 12px}
+-->
+</style></head>
+
+<body>
+<table width="156"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+    
+	  
+      <tr>
+        <td height="20" id="td1" bgcolor="#d76017" onClick="show(1)"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="13%">&nbsp;</td>
+            <td width="72%" height="20"><div align="center">
+              <table width="100%" height="21" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><div align="center"><img src="images/top_8.gif" width="16" height="16"></div></td>
+                  <td valign="middle"><div align="center" class="STYLE1">系统用户管理</div></td>
+                </tr>
+              </table>
+            </div></td>
+            <td width="15%">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr id="show1">
+        <td align="center" valign="top"><table width="145" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table width="130" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr> <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td width="89" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="yhzhgl.php" target="hsgmain">系统用户管理</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+               
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      
+	  
+	   
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	   
+	  
+	  
+	  
+	     
+       
+	  
+	  
+	  
+	  
+	   <tr>
+        <td height="20" id="td3" bgcolor="#d76017" onClick="show(3)"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="13%">&nbsp;</td>
+            <td width="72%" height="20"><div align="center">
+              <table width="100%" height="21" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><div align="center"><img src="images/top_8.gif" width="16" height="16"></div></td>
+                  <td valign="middle"><div align="center" class="STYLE1">精确指标管理</div></td>
+                </tr>
+              </table>
+            </div></td>
+            <td width="15%">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr id="show3" style="display:none">
+        <td align="center" valign="top"><table width="145" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table width="130" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr> <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td width="89" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="kaohezhibiao_add.php" target="hsgmain">添加精确指标</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="kaohezhibiao_list.php" target="hsgmain">查询精确指标</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                
+               
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+	  
+	  
+	  
+	     <tr>
+        <td height="20" id="td3" bgcolor="#d76017" onClick="show(4)"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="13%">&nbsp;</td>
+            <td width="72%" height="20"><div align="center">
+              <table width="100%" height="21" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><div align="center"><img src="images/top_8.gif" width="16" height="16"></div></td>
+                  <td valign="middle"><div align="center" class="STYLE1">模糊指标管理</div></td>
+                </tr>
+              </table>
+            </div></td>
+            <td width="15%">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr id="show4" style="display:none">
+        <td align="center" valign="top"><table width="145" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table width="130" border="0" align="center" cellpadding="0" cellspacing="0">
+                 
+				
+				
+				<tr> <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td width="89" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="zhibiaoxinxi_add.php" target="hsgmain">添加模糊指标信息</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+				
+				
+				
+                <tr> <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td width="89" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="zhibiaoxinxi_list.php" target="hsgmain">查询模糊指标信息</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+	  
+	  
+	        
+       
+	  
+	  
+	      <tr>
+        <td height="20" bgcolor="#d76017" id="td3" onClick="show(6)"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="13%">&nbsp;</td>
+            <td width="72%" height="20"><div align="center">
+              <table width="100%" height="21" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><div align="center"><img src="images/top_8.gif" width="16" height="16"></div></td>
+                  <td valign="middle"><div align="center" class="STYLE1">代建结果管理</div></td>
+                </tr>
+              </table>
+            </div></td>
+            <td width="15%">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr id="show6" style="display:none">
+        <td align="center" valign="top"><table width="145" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table width="130" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr> <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td width="89" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="jieguo_add.php" target="hsgmain">代建得分计算</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <tr> <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td width="89" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="jieguo_list.php" target="hsgmain">历史得分查询</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+	  
+	     
+       
+	  
+	   <tr>
+        <td height="20" id="td3" bgcolor="#d76017" onClick="show(8)"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="13%">&nbsp;</td>
+            <td width="72%" height="20"><div align="center">
+              <table width="100%" height="21" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><div align="center"><img src="images/top_8.gif" width="16" height="16"></div></td>
+                  <td valign="middle"><div align="center" class="STYLE1">注册用户管理</div></td>
+                </tr>
+              </table>
+            </div></td>
+            <td width="15%">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr id="show8" style="display:none">
+        <td align="center" valign="top"><table width="145" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table width="130" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr> <td width="41" height="35" bgcolor="#d76017"><div align="center"> </div></td>
+                  <td width="89" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="23" style="cursor:hand" onMouseOver="this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'"><span class="STYLE2">&nbsp;<a href="yonghuzhuce_list.php" target="hsgmain">注册用户管理</a></span></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+	  
+	  
+	  
+	  
+	  
+	     
+       
+	  
+	  
+	  
+	   <tr>
+        <td height="20" id="td3" ><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="13%">&nbsp;</td>
+            <td width="72%" height="20"><div align="center">
+              <table width="100%" height="21" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="18%"><div align="center"></div></td>
+                  <td width="82%" valign="middle"><div align="center" class="STYLE1"></div></td>
+                </tr>
+              </table>
+            </div></td>
+            <td width="15%">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="39" align="center"><p class="STYLE3"><br>
+          </p>
+          </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
